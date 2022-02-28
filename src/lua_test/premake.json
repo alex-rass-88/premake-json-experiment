@@ -1,0 +1,15 @@
+{
+  "project": {
+    "name": "lua_test",
+    "kind": "ConsoleApp",
+    "language": "C",
+    "files": [
+      "*.c"
+    ],
+    "uses": [
+      "minilua",
+      "sokol_time"
+    ]
+  }
+}
+
